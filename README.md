@@ -43,7 +43,7 @@
     (println "Hello, World!")
 
 
-#인용문
+# 인용문
 줄 맨 앞에 >를 쓰면 된다. 
 
 
@@ -51,7 +51,7 @@
 >>이건 꺽쇠기호 두번친거
     
     
-#링크
+# 링크
 [나무위키](https://namu.wiki/w/나무위키:대문)
 
 출처는 [위키백과][wiki]입니다.
@@ -59,5 +59,12 @@
 [wiki]: http://en.wikipedia.org/wiki/Markdown#Syntax_examples "위키백과 Markdown 항목"
 
 
+# 가로줄
 
+* * *
+***
+*****
+******
+- - -
+-------------
 
