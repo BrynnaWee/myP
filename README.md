@@ -37,7 +37,7 @@
 소스코드
 ====
 `import antigravity`
-(이렇게 `테스트`
+(이렇게 '테스트'
 
     #!/usr/bin/env clojure
     (println "Hello, World!")
